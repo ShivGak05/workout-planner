@@ -1,0 +1,19 @@
+/* WorkoutList.css */
+.workout-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 600px;
+    margin: 1rem auto;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .workout-list p {
+    text-align: center;
+    color: gray;
+    font-size: 1.2rem;
+  }
+  
